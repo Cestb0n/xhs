@@ -12,4 +12,4 @@ python和node底层运行环境（自行官网下载）
 ## 运行截图
 ![图片](https://github.com/Cestb0n/xhs/blob/main/run.jpg?raw=true)
 ## 声明
-写在最后，请勿用于商业用途,仅用做学习研究交流。QQ:916662996
+写在最后，请勿用于商业用途,仅用做学习研究交流。
